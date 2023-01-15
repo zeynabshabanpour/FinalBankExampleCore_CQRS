@@ -1,6 +1,5 @@
 ﻿using FinalBankExampleCore.DataContext;
 using FinalBankExampleCore.Entities;
-using FinalBankExampleCore.Features.UserFeatures.Command;
 using FinalBankExampleCore.Repositories.GenericRepository;
 
 namespace FinalBankExampleCore.Repositories.UserRepository

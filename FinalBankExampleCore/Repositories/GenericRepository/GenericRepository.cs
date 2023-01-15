@@ -1,5 +1,4 @@
 ﻿using FinalBankExampleCore.DataContext;
-using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
 namespace FinalBankExampleCore.Repositories.GenericRepository
